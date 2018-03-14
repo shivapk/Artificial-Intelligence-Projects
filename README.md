@@ -1,5 +1,6 @@
 # Artificial-Intelligence (CSCE 625)
 Languages used: C++, Prolog, Java.
+
 About Projects in Brief: Heuristic search procedures for general graphs, game playing strategies, resolution and rule based deduction systems, knowledge representation, reasoning with uncertainty.
 
 Objectives:
