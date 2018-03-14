@@ -32,6 +32,6 @@ Topics used in Projects:
 10. PROLOG
 11. Modal logics, description logics, fuzzy logic
 12. Planning (goal-regression, STRIPS, frame problem)
-13. Uncertainty and Probability (Bayesian inference, belief nets, Markov decision problems)
+13. Uncertainty and Probability (Bayesian inference, belief nets, Markov decision problems).
 
 
