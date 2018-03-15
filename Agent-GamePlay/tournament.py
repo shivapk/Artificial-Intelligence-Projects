@@ -36,7 +36,7 @@ from game_agent import custom_score
 NUM_MATCHES = 5  # number of matches against each opponent
 TIME_LIMIT = 150  # number of milliseconds before timeout
 
-TIMEOUT_WARNING = "One or more agents lost a match this round due to " + \
+TIMEOUT_WARNING = "One or more agents lost a match this round due to " + \ #
                   "timeout. The get_move() function must return before " + \
                   "time_left() reaches 0 ms. You will need to leave some " + \
                   "time for the function to return, and may need to " + \
