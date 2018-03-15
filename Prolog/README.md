@@ -2,7 +2,7 @@ This Project uses Prolog, which will rely on your understanding of back-chaining
 cases for Prolog, from database-like queries, to knowledge representation (concept definitions), to numerical computations, to decision-making and problem-solving.
 I recommend you use SWI Prolog (www.swi-prolog.org). 
 
-Some main aspects of this project include Decision-making rules in Prolog for:
+Some main aspects of this project include Decision-making rules in Prolog for the following:
  1. Wumpus World. 
  2. Tic-Tac-Toe
  3. Four Queens Problem
